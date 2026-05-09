@@ -1,4 +1,38 @@
-theme: jekyll-theme-cayman
-title: [AI on IBM i]
-description: [These are setup instructions and examples of how to call and interact with AI / LLMs via their APIs.]
-markdown: kramdown
+title: AI Patterns for Business Systems
+description: A guide to thinking about AI in operational software — capability-oriented architecture, named patterns, hybrid systems, operational risk.
+remote_theme: just-the-docs/just-the-docs
+url: https://aipatterns.k3s.com
+
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+
+aux_links:
+  "K3S on GitHub":
+    - "https://github.com/K3S"
+  "Companion: IBM i AI Workers":
+    - "https://ibmi-ai-workers.k3s.com"
+  "Companion: PHP/PDO/ODBC Toolkit":
+    - "https://odbcphp.k3s.com"
+  "Companion: IBM i Open Source Setup":
+    - "https://ospm.k3s.com"
+
+footer_content: 'Maintained by <a href="https://k3s.com">King III Solutions, Inc.</a> &middot; Prose: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Code samples: <a href="https://opensource.org/licenses/MIT">MIT</a>.'
+
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/K3S/AI-On-IBM-i"
+gh_edit_branch: "master"
+gh_edit_view_mode: "tree"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+exclude:
+  - LICENSE
+  - LICENSE-PROSE
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
