@@ -14,7 +14,7 @@ ga_tracking_anonymize_ip: true
 # Top-right auxiliary links
 aux_links:
   "View on GitHub":
-    - "https://github.com/K3S/AI-On-IBM-i"
+    - "https://github.com/K3S/ai-patterns"
   "Sponsored by K3S":
     - "https://k3s.com"
 aux_links_new_tab: true
@@ -44,7 +44,7 @@ footer_content: 'Maintained by <a href="https://k3s.com">King III Solutions, Inc
 
 gh_edit_link: true
 gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/K3S/AI-On-IBM-i"
+gh_edit_repository: "https://github.com/K3S/ai-patterns"
 gh_edit_branch: "master"
 gh_edit_view_mode: "tree"
 
