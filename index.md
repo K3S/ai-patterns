@@ -8,7 +8,7 @@ nav_order: 1
 This is a guide to thinking about AI in operational software. It is not a tutorial on calling APIs, building agents, or fine-tuning models. Those subjects age out in months. This guide is about the parts that don't.
 
 [Get started](#start-here){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View on GitHub](https://github.com/K3S/AI-On-IBM-i){: .btn .fs-5 .mb-4 .mb-md-0 }
+[View on GitHub](https://github.com/K3S/ai-patterns){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
