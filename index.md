@@ -7,6 +7,13 @@ nav_order: 1
 
 This is a guide to thinking about AI in operational software. It is not a tutorial on calling APIs, building agents, or fine-tuning models. Those subjects age out in months. This guide is about the parts that don't.
 
+[Get started](#start-here){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[View on GitHub](https://github.com/K3S/AI-On-IBM-i){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
+
+## AI as a tool
+
 The premise is simple. AI is not a hammer; it's a hardware store. Some jobs match what an LLM is genuinely good at, and an LLM doing them unattended is the right answer. Other jobs don't, and an LLM doing them produces output that looks correct and is operationally wrong — sometimes harmlessly, sometimes catastrophically. The ability to tell the difference, and to design systems that respect it, is the part that matters.
 
 Most of what's published about AI in 2026 — model leaderboards, agent frameworks, prompt-engineering tips, demos of the same five toy use cases — is downstream of a single architectural assumption: that AI is undifferentiated, a thing you either "use" or "don't use," a checkbox on a feature list. That assumption produces bad systems. Replenishment recommendations that look reasonable and are quietly wrong by 18% on edge cases. Customer-service bots that are confidently incorrect about your return policy. Forecast explanations that have nothing to do with the actual forecast. AI integrations that work in the demo and crumble in the audit.
@@ -41,7 +48,7 @@ Each of these is a chapter.
 
 ---
 
-## How to read it
+## Start here
 
 The chapters are designed to be read in order, but they're also reference-shaped — you can come back to any chapter for a specific decision and find what you need.
 
