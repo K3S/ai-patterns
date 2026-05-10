@@ -7,15 +7,17 @@ color_scheme: light
 search_enabled: true
 heading_anchors: true
 
+# Google Analytics
+ga_tracking: G-KNM6XVL7BG
+ga_tracking_anonymize_ip: true
+
+# Top-right auxiliary links
 aux_links:
-  "K3S on GitHub":
-    - "https://github.com/K3S"
-  "Companion: IBM i AI Workers":
-    - "https://ibmi-ai-workers.k3s.com"
-  "Companion: PHP/PDO/ODBC Toolkit":
-    - "https://odbcphp.k3s.com"
-  "Companion: IBM i Open Source Setup":
-    - "https://ospm.k3s.com"
+  "View on GitHub":
+    - "https://github.com/K3S/AI-On-IBM-i"
+  "Sponsored by K3S":
+    - "https://k3s.com"
+aux_links_new_tab: true
 
 # External link in the sidebar
 nav_external_links:
