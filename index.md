@@ -12,7 +12,7 @@ This is a guide to thinking about AI in operational software. It is not a tutori
 
 ---
 
-## AI as a collection of tools
+## AI as a category
 
 The premise is simple. AI is not a hammer; it's a hardware store. Some jobs match what an LLM is genuinely good at, and an LLM doing them unattended is the right answer. Other jobs don't, and an LLM doing them produces output that looks correct and is operationally wrong — sometimes harmlessly, sometimes catastrophically. The ability to tell the difference, and to design systems that respect it, is the part that matters.
 
